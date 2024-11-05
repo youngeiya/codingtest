@@ -1,10 +1,10 @@
 import java.io.*;
 import java.util.Arrays;
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Scanner in = new Scanner(System.in);
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int [] arr = new int[9];
